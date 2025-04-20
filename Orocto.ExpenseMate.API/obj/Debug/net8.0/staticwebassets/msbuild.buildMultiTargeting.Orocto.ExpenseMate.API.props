@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Orocto.ExpenseMate.API.props" />
+</Project>

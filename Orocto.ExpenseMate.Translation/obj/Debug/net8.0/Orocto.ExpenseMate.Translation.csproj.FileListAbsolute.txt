@@ -1,0 +1,17 @@
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Translation.deps.json
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Translation.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Translation.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Domain.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Wrapper.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Domain.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/bin/Debug/net8.0/Orocto.ExpenseMate.Wrapper.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.csproj.AssemblyReference.cache
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.AssemblyInfoInputs.cache
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.AssemblyInfo.cs
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.csproj.CoreCompileInputs.cache
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.E.7DF7D983.Up2Date
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/refint/Orocto.ExpenseMate.Translation.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/Orocto.ExpenseMate.Translation.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Translation/obj/Debug/net8.0/ref/Orocto.ExpenseMate.Translation.dll

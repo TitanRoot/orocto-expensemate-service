@@ -1,0 +1,11 @@
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/bin/Debug/net8.0/Orocto.ExpenseMate.Domain.deps.json
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/bin/Debug/net8.0/Orocto.ExpenseMate.Domain.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/bin/Debug/net8.0/Orocto.ExpenseMate.Domain.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.AssemblyInfoInputs.cache
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.AssemblyInfo.cs
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.csproj.CoreCompileInputs.cache
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/refint/Orocto.ExpenseMate.Domain.dll
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/Orocto.ExpenseMate.Domain.pdb
+/Users/ankurgoswami/Projects/Backend/Orocto.ExpenseMate.API/Orocto.ExpenseMate.Domain/obj/Debug/net8.0/ref/Orocto.ExpenseMate.Domain.dll
