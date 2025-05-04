@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orocto.ExpenseMate.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afff92f5fefaabac21c0bef07741d75f9949de21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dbd3d700b49ec62ea9d1f1ff8323713c5f423da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orocto.ExpenseMate.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orocto.ExpenseMate.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
